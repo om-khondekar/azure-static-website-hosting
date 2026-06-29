@@ -97,25 +97,26 @@ Successfully verified that:
 
 ## Storage Account
 
-![Storage](images/storage-account.png)
+<img width="1918" height="1197" alt="Screenshot 2026-06-29 215352" src="https://github.com/user-attachments/assets/05af238e-13fa-4aa9-8f2a-1d0b177a343c" />
+
 
 ---
 
 ## Static Website Configuration
 
-![Static Website](images/static-website.png)
+<img width="1918" height="1198" alt="Screenshot 2026-06-29 215434" src="https://github.com/user-attachments/assets/054ea715-42ec-4929-80cd-e85b0897bd29" />
 
 ---
 
 ## Web Container
 
-![Container](images/web-container.png)
+<img width="1918" height="1197" alt="Screenshot 2026-06-29 215625" src="https://github.com/user-attachments/assets/fbbc2c30-6c20-423a-b739-0f6fb07937f4" />
 
 ---
 
 ## Website Output
 
-![Website](images/website-output.png)
+<img width="1917" height="1087" alt="Screenshot 2026-06-29 215649" src="https://github.com/user-attachments/assets/96b091b1-e0cf-4402-9c5e-a533d683c5ef" />
 
 ---
 
